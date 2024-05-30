@@ -34,3 +34,5 @@ require (
 	golang.org/x/sys v0.20.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/pion/interceptor v0.1.29 => github.com/pion/interceptor v0.1.30-0.20240421184404-72c0be86db35
